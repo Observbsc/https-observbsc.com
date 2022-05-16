@@ -403,7 +403,7 @@ export default function Swap() {
             <StyledInputCurrencyWrapper mt={isChartExpanded ? '24px' : '0'}>
               <AppBody>
                 <CurrencyInputHeader
-                  title={t('Exchange')}
+                  title={t('ObservX')}
                   subtitle={t('Token Swap')}
                   setIsChartDisplayed={setIsChartDisplayed}
                   isChartDisplayed={isChartDisplayed}

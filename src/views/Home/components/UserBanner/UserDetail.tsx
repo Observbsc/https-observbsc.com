@@ -28,11 +28,6 @@ const Sticker = styled(Flex)`
   box-shadow: ${({ theme }) => theme.card.boxShadow};
 `
 
-const StyledNoProfileAvatarIcon = styled(NoProfileAvatarIcon)`
-  height: 100%;
-  width: 100%;
-`
-
 const UserDetail = () => {
   const { profile, isLoading } = useProfile()
   const { t } = useTranslation()
