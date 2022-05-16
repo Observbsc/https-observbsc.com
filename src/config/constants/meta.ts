@@ -4,8 +4,8 @@ import { PageMeta } from './types'
 export const DEFAULT_META: PageMeta = {
   title: 'OBSERV',
   description:
-    'Observ Ecosystem on the Binance smart Chain',
-  image: 'https://pancakeswap.finance/images/hero.png',
+    'Observ Ecosystem on Binance smart Chain',
+  image: 'https://github.com/Observbsc/Logos/blob/main/logo500x500.png?raw=true',
 }
 
 export const getCustomMeta = (path: string, t: ContextApi['t']): PageMeta => {
