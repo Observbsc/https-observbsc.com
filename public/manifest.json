@@ -1,0 +1,23 @@
+{
+  "short_name": "Observ",
+  "name": "Observ",
+  "description": "Observ Ecosystem Binance Smart Chain",
+  "homepage_url": "https://observbsc.com",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#06051b",
+  "background_color": "#06051b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "16x16"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
