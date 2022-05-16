@@ -47,3 +47,6 @@ debug.log*
 .turbo
 # Sentry
 .sentryclirc
+
+# Sentry
+.sentryclirc
