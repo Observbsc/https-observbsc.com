@@ -53,6 +53,7 @@
     "@next/bundle-analyzer": "^12.0.7",
     "@pancakeswap/sdk": "^2.4.5",
     "@reduxjs/toolkit": "^1.5.0",
+    "@sentry/netlify-build-plugin": "^1.1.1",
     "@sentry/nextjs": "6.19.6",
     "@uniswap/token-lists": "^1.0.0-beta.19",
     "@web3-react/core": "^6.1.9",
