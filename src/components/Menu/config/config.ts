@@ -16,6 +16,12 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
     icon: HomeIcon,
     href: '/',
     showItemsOnMobile: false,
+    items: [
+      {
+        label: t('Home'),
+        href: '/',
+      },
+    ],
   },
   {
     label: t('Trade'),
