@@ -116,7 +116,6 @@
     "eslint": "^7.26.0",
     "eslint-plugin-cypress": "^2.11.3",
     "eslint-plugin-lodash": "^7.4.0",
-    "husky": "^7.0.0",
     "jest": "^27.4.5",
     "lerna": "^4.0.0",
     "postcss-scss": "^4.0.3",
@@ -135,7 +134,7 @@
     "typechain": "^6.1.0"
   },
   "resolutions": {
-    "@types/react": "17.0.5",
-    "@types/react-dom": "17.0.4"
+    "@types/react": "17.0.1",
+    "@types/react-dom": "17.0.1"
   }
 }
