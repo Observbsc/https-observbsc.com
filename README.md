@@ -29,6 +29,8 @@ yarn start
 npx @sentry/wizard -i nextjs
 ```
 
+## Special Thanks
+
 ```sh
-Special thanks to PancakeSwap for providing the opensource code our project uses. Without them it would have taken a LOT longer.
+Special thanks to PancakeSwap - providing the opensource code our project uses. Without them it would have taken a LOT longer.
 ```
