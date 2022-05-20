@@ -28,3 +28,7 @@ yarn start
 ```sh
 npx @sentry/wizard -i nextjs
 ```
+
+```sh
+Special thanks to PancakeSwap for providing the base code for our project. Without them it would have taken a LOT longer.
+```
