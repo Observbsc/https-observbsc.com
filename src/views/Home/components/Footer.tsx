@@ -14,6 +14,7 @@ const BgWrapper = styled.div`
   height: 100%;
   top: 0px;
   left: 0px;
+  background-color: #000000;
 `
 
 const StyledSunburst = styled(SunburstSvg)`
