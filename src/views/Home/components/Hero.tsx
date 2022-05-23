@@ -112,7 +112,7 @@ const Hero = () => {
             {t('When you Observ you become a part of the solution.')}
           </Heading>
           <Heading scale="md" mb="24px">
-            {t('Observ is the first environmentally concious ecosystem. Everytime someone holds $OBSERV they become a part of the solution to solving the planets biggest environmental issues.')}
+            {t('Observ is the first environmentally conscious ecosystem. Everytime someone holds $OBSERV they become a part of the solution to solving the planets biggest environmental issues.')}
           </Heading>
           <Flex>
             {!account && <ConnectWalletButton mr="8px" />}
