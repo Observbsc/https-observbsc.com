@@ -47,7 +47,7 @@ const Stats = () => {
       </Text>
       <Flex flexWrap="wrap">
       <Text textAlign="center" color="#06051b">
-        {t('Observ is on mission to increase awareness about the threats we face with our environment and to encourage individuals to problem solve and participate in the resolution if environmental challenges. By holding $OBSERV token, your mind is automatically drawn to environmental issues. We hope by becoming a top 100 token, that one (or many) of our environmentally focused holders solve our biggest environmental issues. To aid in our mission, once launched, our merchandise store will only take $OBSERV tokens and profits will go to charity.')}
+        {t('Observ is on a mission to increase awareness about the threats we face with our environment and to encourage individuals to problem solve and participate in the resolution if environmental challenges. When you hold $OBSERV, you hold a key to the future of our planet. We want to invite you to join us on our journey to the top 100 & inspire our community to help keep our planet & Observ thriving. The key to the future will not come from one individual alone, but when individuals join together and become part of a community. Once launched, the 1st of many utilities will be our merchandise store will only take $OBSERV tokens and profits will go directly to charity.')}
       </Text>
       </Flex>
       <Text textAlign="center" color="#06051b" bold mb="32px">
