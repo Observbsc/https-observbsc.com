@@ -67,7 +67,7 @@ export const socials = [
     icon: TelegramIcon,
     items: [
       {
-        label: "Offical Channel",
+        label: "Official Channel",
         href: "https://t.me/observbsc",
       },
       {
@@ -75,7 +75,7 @@ export const socials = [
         href: "https://t.me/observbscvietnam",
       },
       {
-        label: "Offical Shiller Group",
+        label: " Shiller Channel",
         href: "https://t.me/observshillers",
       },
     ],
