@@ -8,11 +8,11 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Contact",
-        href: "https://docs.https://observbsc.com/contact-us",
+        href: "mailto:hello@observbsc.com",
       },
       {
         label: "White Paper",
-        href: "https://observbsc.com/whitepaper",
+        href: "https://docs.observbsc.com/whitepaper",
       },
       {
         label: "Community",
@@ -20,13 +20,17 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Tokenomics",
+        href: "https://docs.observbsc.com/tokenomics",
+      },
+      {
+        label: "Whitepaper",
         href: "https://observbsc.com/tokenomics",
       },
       {
         label: "—",
       },
       {
-        label: "Online Store - Coming Soon",
+        label: "Online Store",
         href: "https://shop.observbsc.com",
         isHighlighted: true,
       },
