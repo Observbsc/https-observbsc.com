@@ -101,10 +101,10 @@ const LotteryBanner = () => {
               <S.StyledHeading scale="xl">{t('Loading')}</S.StyledHeading>
             </>
           )}
-          <NextLinkFromReactRouter to="/swap">
+          <NextLinkFromReactRouter to="https://shop.observbsc.com">
             <Button>
               <Text color="invertedContrast" bold fontSize="16px" mr="4px">
-                {status === FetchStatus.Fetched && isLotteryLive(data.status) ? t('Start Trading') : t('Check Now')}
+                {status === FetchStatus.Fetched && isLotteryLive(data.status) ? t('Launching soon') : t('Check Now')}
               </Text>
               <ArrowForwardIcon color="invertedContrast" />
             </Button>
