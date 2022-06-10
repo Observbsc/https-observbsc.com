@@ -8,7 +8,7 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Contact",
-        href: "mailto:hello@observbsc.com",
+        href: "mailto: hello@observbsc.com",
       },
       {
         label: "White Paper",
