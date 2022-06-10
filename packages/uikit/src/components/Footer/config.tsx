@@ -27,7 +27,7 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Online Store - Coming Soon",
-        href: "",
+        href: "https://shop.observbsc.com",
         isHighlighted: true,
       },
     ],
@@ -69,6 +69,10 @@ export const socials = [
       {
         label: "Offical Channel",
         href: "https://t.me/observbsc",
+      },
+      {
+        label: "Vietnam Channel",
+        href: "https://t.me/observbscvietnam",
       },
       {
         label: "Offical Shiller Group",
