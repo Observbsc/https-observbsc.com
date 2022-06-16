@@ -3,6 +3,7 @@ import {
   DropdownMenuItemType,
   SwapIcon,
   HomeIcon,
+  EarnIcon,
   SwapFillIcon,
   MoreIcon,
 } from '@pancakeswap/uikit'
@@ -37,6 +38,24 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
       {
         label: t('Limit Swap'),
         href: '/limit-orders',
+      },
+    ],
+  },
+  {
+    label: t('Tracker'),
+    icon: EarnIcon,
+    href: '#',
+    showItemsOnMobile: true,
+    items: [
+      {
+        label: t('Observ Tracker'),
+        href: 'https://track.observbsc.com',
+        type: DropdownMenuItemType.EXTERNAL_LINK,
+      },
+      {
+          label: t('Observ Wallet Tracker'),
+          href: 'https://track.observbsc.com/track',
+          type: DropdownMenuItemType.EXTERNAL_LINK,
       },
     ],
   },
